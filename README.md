@@ -1,0 +1,2 @@
+# JS-Namaste
+JavaScript Namaste.
